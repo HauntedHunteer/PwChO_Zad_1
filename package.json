@@ -1,0 +1,13 @@
+{
+  "name": "date_app_for_container",
+  "version": "1.0.0",
+  "description": "Node.js App on Docker",
+  "author": "Mateusz Niemczuk",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
